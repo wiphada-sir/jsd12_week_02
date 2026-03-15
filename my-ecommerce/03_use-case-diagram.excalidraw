@@ -155,8 +155,8 @@
       "index": "a7",
       "roundness": null,
       "seed": 1830377768,
-      "version": 273,
-      "versionNonce": 980423512,
+      "version": 275,
+      "versionNonce": 1417914712,
       "isDeleted": false,
       "boundElements": [
         {
@@ -164,15 +164,15 @@
           "type": "arrow"
         },
         {
-          "id": "G-J4IKyD99c-88mfTZ1XV",
+          "id": "m6h2nKlM8Nm5ehKXQjoaR",
           "type": "arrow"
         },
         {
-          "id": "m6h2nKlM8Nm5ehKXQjoaR",
+          "id": "D3MxhhV1x6_Cd4WmJukh3",
           "type": "arrow"
         }
       ],
-      "updated": 1773609509104,
+      "updated": 1773611543026,
       "link": null,
       "locked": false,
       "text": "Seller",
@@ -336,9 +336,9 @@
     {
       "id": "fJtk28kXE_ToYFCJBQChB",
       "type": "text",
-      "x": 570.01171875,
-      "y": 472.18359375,
-      "width": 112.59190368652344,
+      "x": 613.24609375,
+      "y": 470.48828125,
+      "width": 28.223983764648438,
       "height": 20,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -353,29 +353,29 @@
       "index": "aF",
       "roundness": null,
       "seed": 631546200,
-      "version": 86,
-      "versionNonce": 303459928,
+      "version": 142,
+      "versionNonce": 2070951208,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1773608724659,
+      "updated": 1773611471433,
       "link": null,
       "locked": false,
-      "text": "Update Games",
+      "text": "Pay",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Update Games",
+      "originalText": "Pay",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
       "id": "vXJq9JEi_tpnPrs-Nyjl4",
       "type": "text",
-      "x": 571.65234375,
-      "y": 548.57421875,
-      "width": 107.99992370605469,
+      "x": 543.765625,
+      "y": 549.296875,
+      "width": 169.07186889648438,
       "height": 20,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -390,20 +390,20 @@
       "index": "aG",
       "roundness": null,
       "seed": 1435400024,
-      "version": 73,
-      "versionNonce": 277354328,
+      "version": 121,
+      "versionNonce": 732328232,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1773609068344,
+      "updated": 1773611492933,
       "link": null,
       "locked": false,
-      "text": "Update Stock",
+      "text": "Update Stock&Games",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "Update Stock",
+      "originalText": "Update Stock&Games",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -538,16 +538,20 @@
         "type": 2
       },
       "seed": 249067352,
-      "version": 145,
-      "versionNonce": 1934400088,
+      "version": 148,
+      "versionNonce": 1964089176,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "G-J4IKyD99c-88mfTZ1XV",
+          "id": "-Yx2YiqT1QTE0FbNG5yO0",
+          "type": "arrow"
+        },
+        {
+          "id": "D3MxhhV1x6_Cd4WmJukh3",
           "type": "arrow"
         }
       ],
-      "updated": 1773609497753,
+      "updated": 1773611543025,
       "link": null,
       "locked": false
     },
@@ -833,60 +837,6 @@
       "elbowed": false
     },
     {
-      "id": "G-J4IKyD99c-88mfTZ1XV",
-      "type": "arrow",
-      "x": 876.21875,
-      "y": 482.7890625,
-      "width": 155.47265625,
-      "height": 2.7890625,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "aT",
-      "roundness": {
-        "type": 2
-      },
-      "seed": 1671058520,
-      "version": 151,
-      "versionNonce": 916915544,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1773609497753,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          -155.47265625,
-          -2.7890625
-        ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "4UZPR3e1tEuFG-I-rq-QS",
-        "focus": -0.10643809027343035,
-        "gap": 14.7265625
-      },
-      "endBinding": {
-        "elementId": "Nig-xE3egAqZhk9i6bbgo",
-        "focus": -0.06013681130268744,
-        "gap": 1
-      },
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
-    },
-    {
       "id": "m6h2nKlM8Nm5ehKXQjoaR",
       "type": "arrow",
       "x": 878.5,
@@ -1047,8 +997,8 @@
     {
       "id": "tThnT_gFjc9gdg4rb0tII",
       "type": "text",
-      "x": 59.734375,
-      "y": 302.11328125,
+      "x": 59.96875,
+      "y": 298.62890625,
       "width": 210.9117889404297,
       "height": 20,
       "angle": 0,
@@ -1064,11 +1014,11 @@
       "index": "aY",
       "roundness": null,
       "seed": 1338509656,
-      "version": 122,
-      "versionNonce": 33081688,
+      "version": 145,
+      "versionNonce": 274087976,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1773610988130,
+      "updated": 1773611555032,
       "link": null,
       "locked": false,
       "text": "Goals: Wants to buy games",
@@ -1084,8 +1034,8 @@
     {
       "id": "ooWbjZEfYgqzKIggkTjfC",
       "type": "text",
-      "x": 59.4375,
-      "y": 382.234375,
+      "x": 58.01171875,
+      "y": 373.44140625,
       "width": 231.91976928710938,
       "height": 40,
       "angle": 0,
@@ -1101,11 +1051,11 @@
       "index": "aZ",
       "roundness": null,
       "seed": 463854936,
-      "version": 191,
-      "versionNonce": 621344600,
+      "version": 236,
+      "versionNonce": 1037655128,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1773610984248,
+      "updated": 1773611561966,
       "link": null,
       "locked": false,
       "text": "Pain Points: My home town\ndoesn't have local game shop ",
@@ -1121,8 +1071,8 @@
     {
       "id": "Z29GqR3pX5paNWPRayk8b",
       "type": "text",
-      "x": 58.21875,
-      "y": 468.6484375,
+      "x": 58.35546875,
+      "y": 459.41796875,
       "width": 194.6558380126953,
       "height": 40,
       "angle": 0,
@@ -1138,11 +1088,11 @@
       "index": "aa",
       "roundness": null,
       "seed": 1746419800,
-      "version": 70,
-      "versionNonce": 1106604632,
+      "version": 99,
+      "versionNonce": 1225539368,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1773610974446,
+      "updated": 1773611568032,
       "link": null,
       "locked": false,
       "text": "Lifestyle: Play variety of\ngames ",
@@ -1154,6 +1104,110 @@
       "originalText": "Lifestyle: Play variety of\ngames ",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "-Yx2YiqT1QTE0FbNG5yO0",
+      "type": "arrow",
+      "x": 423.6484375,
+      "y": 347.125,
+      "width": 119.88671875,
+      "height": 124.18359375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ab",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 145930280,
+      "version": 76,
+      "versionNonce": 233429544,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1773611515726,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          119.88671875,
+          124.18359375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "Nig-xE3egAqZhk9i6bbgo",
+        "focus": -0.6730801323689599,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "D3MxhhV1x6_Cd4WmJukh3",
+      "type": "arrow",
+      "x": 720.71875,
+      "y": 479.25,
+      "width": 160.16015625,
+      "height": 4.0546875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ad",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1513223000,
+      "version": 119,
+      "versionNonce": 2102654040,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1773611543025,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          160.16015625,
+          4.0546875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Nig-xE3egAqZhk9i6bbgo",
+        "focus": -0.10902754147357774,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "4UZPR3e1tEuFG-I-rq-QS",
+        "focus": -0.15777145748384505,
+        "gap": 10.06640625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
